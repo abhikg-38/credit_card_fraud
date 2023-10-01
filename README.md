@@ -1,2 +1,2 @@
 # credit_card_fraud
-An ML project that analyzes credit card data by means of various clustering algorithms and applies anomaly detection algorithms to appropriately label cases of credit card fraud.
+An ML project that analyzes credit card data by means of various clustering algorithms and applies anomaly detection algorithms to appropriately label cases of credit card fraud. Isolation forest, Local Outlier Factor and One Class SVM algorithms are individually applied and their results are compared. Evaluation metrics like ROC curve,AUC score, precision recall curve etc are used to test the robustness of each model. Extensive data preprocessing is carried out via inferences drawn from correlation calculations and other appropriate plots.
